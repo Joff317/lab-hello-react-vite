@@ -1,0 +1,21 @@
+body {
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  background-color: rgb(3, 3, 42);
+}
+
+.top-container {
+  height: 50vh;
+}
+
+.burger {
+  height: 20px;
+  width: 30px;
+}

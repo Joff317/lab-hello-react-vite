@@ -1,0 +1,30 @@
+.middle-container{
+   padding: 0 120px;
+   display: flex;
+   flex-direction: column;
+   text-align: left;
+   width: 100%;
+   color: white;
+   margin-top: 350px;
+ }
+ 
+ .middle-title{
+   font-size: 4em;
+   max-width: 350px;
+ }
+ 
+ .middle-para{
+   font-size: 2em;
+   max-width: 400px;
+   margin: 0;
+   margin-bottom: 20px;
+ }
+ 
+ .left-btn{
+   max-width: 200px;
+   height: auto;
+   border-radius: 10px;
+   padding: 20px;
+   border: none;
+   font-size: 20px;
+ }
